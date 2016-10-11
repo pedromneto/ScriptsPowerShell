@@ -31,8 +31,8 @@
     <Folder Include="Dicionario\" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Implantacao\Script_Restore_SiteCollections_Bradesco.ps1" />
-    <Compile Include="PS_Export-Import-Search-Schema.ps1" />
+    <Compile Include="Implantacao\Script_Create_SiteCollection_AppCatalog.ps1" />
+    <Compile Include="Implantacao\Script_Get_SharePoint_Farm_Build.ps1" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Dicionario\Dicionario.txt" />
